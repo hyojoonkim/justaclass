@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Schedule
 description: >-
-    Course policies and information.
-nav_exclude: true
+    Class schedule
 ---
 
 # About

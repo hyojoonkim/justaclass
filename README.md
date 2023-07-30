@@ -1,39 +1,58 @@
 ---
 layout: home
-title: Just the Class
+title: CS 6501
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Software-Defined Networking and Programmable Networks
 ---
 
-# Just the Class
+# CS 6501: Software-Defined Networking and Programmable Networks
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+## Course description:
+Today, we are witnessing a Cambrian explosion of applications with widely
+different network requirements (e.g., video conferencing, AR/VR, remote
+surgery). Yet network operators still rely on low-level commands when
+configuring network devices and use archaic tools (e.g., ping, traceroute,
+Wireshark) when troubleshooting connectivity or performance issues. As a
+result, the Internet, or the network of networks, is showing its limits:
+unplanned outages due to misconfigurations or cyberattacks are happening more
+frequently with bigger and broader impacts.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+Luckily, programmability is extending its reach to every corner of digital
+communication these days. Open, programmable, and software-driven networks
+allow us to develop innovative ways of managing networks, where
+deeply-programmable network devices are now a commodity (e.g., programmable
+switches, SmartNICs).  However, programmability is a double-edged sword. More
+flexibility and freedom enabled by programmability can, in fact, lead us to a
+more complex network that is harder to understand and control. Finding the
+right level of abstraction for network operators while building a versatile
+network  is the key challenge in today's network design.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+In this class, we will explore the history of Software-Defined Networking (SDN)
+and programmable networks. We will also learn what kind of problems they have
+solved and what new challenges they have introduced. Specifically, we will
+learn and discuss the following (tentative list): traditional networks, the
+history of SDN and programmable networks,  state-of-the-art programmable
+platforms (Intel Tofino, SmartNICs), languages (OpenFlow, P4, Lucid), network
+verification with programmable networks, and real-world applications.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+## Prerequisites
+This course does not have official prerequisites. However, basic knowledge and familiarity with computer networks will be helpful (e.g., TCP/IP, the concept of packet headers, etc)
 
-## Getting Started
+## Class Information
+  - Time: Mon, Wed 2:00pm - 3:15pm
+  - Location: Rice Hall 032
+  - Instructor: [Hyojoon Kim]()
+    - Email: tcr5zr@virginia.edu
+    - Office: Rice Hall 501
+    - Office hours: TBD
+  - [Class schedule](sched)
 
-Getting started with Just the Class is simple.
+## Grading 
+  - [Presentations](present): 20%
+  - [Reviews](review): 15%
+  - [Assignments](assignment): 15% 
+  - [Project](project): 50%
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
-
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).

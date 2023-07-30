@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Presentations
 description: >-
     Course policies and information.
-nav_exclude: true
+nav_exclude: false
 ---
 
 # About

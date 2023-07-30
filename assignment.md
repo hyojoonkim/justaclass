@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Assignments
 description: >-
     Course policies and information.
-nav_exclude: true
 ---
 
 # About

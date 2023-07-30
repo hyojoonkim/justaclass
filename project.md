@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Project
 description: >-
-    Course policies and information.
-nav_exclude: true
+    About course projects
 ---
 
 # About
