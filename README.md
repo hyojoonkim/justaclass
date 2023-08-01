@@ -39,20 +39,23 @@ platforms (Intel Tofino, SmartNICs), languages (OpenFlow, P4, Lucid), network
 verification with programmable networks, and real-world applications.
 
 ## Prerequisites
-This course does not have official prerequisites. However, basic knowledge and familiarity with computer networks will be helpful (e.g., TCP/IP, the concept of packet headers, etc)
+This course does not have official prerequisites. However, basic knowledge and
+familiarity with computer networks will be helpful (e.g., TCP/IP layers, the
+concept of packet headers, etc). CS/ECE 4457 is a good example for an
+unofficial prerequisite. 
 
 ## Class Information
   - Time: Mon, Wed 2:00pm - 3:15pm
   - Location: Rice Hall 032
-  - Instructor: [Hyojoon Kim]()
+  - Instructor: [Hyojoon Kim](https://hyojoonkim.com){:target="_blank"}
     - Email: tcr5zr@virginia.edu
     - Office: Rice Hall 501
     - Office hours: TBD
-  - [Class schedule](sched)
+  - [Class schedule]()
 
-## Grading 
-  - [Presentations](present): 20%
-  - [Reviews](review): 15%
-  - [Assignments](assignment): 15% 
-  - [Project](project): 50%
+## Grading (subject to minor changes)
+  - [Presentations](present): 20%. Presentation that summarizes a conference/journal paper.
+  - [Reviews](review): 15%. Reviews of conference/journal papers.
+  - [Assignments](assignment): 15%. Multiple class assignments.
+  - [Project](project): 50%. One class project.
 
