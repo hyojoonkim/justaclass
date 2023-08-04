@@ -24,19 +24,16 @@ Luckily, programmability is extending its reach to every corner of digital
 communication these days. Open, programmable, and software-driven networks
 allow us to develop innovative ways of managing networks, where
 deeply-programmable network devices are now a commodity (e.g., programmable
-switches, SmartNICs).  However, programmability is a double-edged sword. More
-flexibility and freedom enabled by programmability can, in fact, lead us to a
-more complex network that is harder to understand and control. Finding the
-right level of abstraction for network operators while building a versatile
-network  is the key challenge in today's network design.
+switches, SmartNICs).  
 
-In this class, we will explore the history of Software-Defined Networking (SDN)
-and programmable networks. We will also learn what kind of problems they have
-solved and what new challenges they have introduced. Specifically, we will
-learn and discuss the following (tentative list): traditional networks, the
-history of SDN and programmable networks,  state-of-the-art programmable
-platforms (Intel Tofino, SmartNICs), languages (OpenFlow, P4, Lucid), network
-verification with programmable networks, and real-world applications.
+In this class, we will learn about Software-Defined Networking (SDN) and
+programmable networks. We will learn what kind of problems they have solved and
+what new challenges they have introduced. Specific topics include (tentative
+list): traditional networks and their problems, the history of SDN and
+programmable networks, state-of-the-art programmable platforms (e.g., Intel
+Tofino, SmartNICs), languages for programmable networks (e.g., OpenFlow, P4),
+real-world applications and deployments, network verification, and AI/ML +
+networking.
 
 ## Prerequisites
 This course does not have official prerequisites. However, basic knowledge and
@@ -48,14 +45,14 @@ unofficial prerequisite.
   - Time: Mon, Wed 2:00pm - 3:15pm
   - Location: Rice Hall 032
   - Instructor: [Hyojoon Kim](https://hyojoonkim.com){:target="_blank"}
-    - Email: tcr5zr@virginia.edu
+    - Email: hyojoonkim@virginia.edu
     - Office: Rice Hall 501
-    - Office hours: TBD
-  - [Class schedule]()
 
 ## Grading (subject to minor changes)
-  - [Presentations](present): 20%. Presentation that summarizes a conference/journal paper.
-  - [Reviews](review): 15%. Reviews of conference/journal papers.
-  - [Assignments](assignment): 15%. Multiple class assignments.
-  - [Project](project): 50%. One class project.
+  - Presentations: 25%. Presentation that summarizes a conference/journal paper.
+  - Reviews: 25%. Reviews of conference/journal papers.
+  - Assignments: 10%. Multiple class assignments.
+  - Project: 40%. One class project.
 
+## Sllyabus
+  - [Syllabus](syllabus)
