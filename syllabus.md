@@ -6,7 +6,9 @@ nav_exclude: false
 ---
 
 ### Presentations
-For most of the classes, we will start with a presentation by a student. The
+For some classes, we will start with a presentation by a student. 
+This will depend on the final class size.
+The
 presentation should be around 10-15 minutes and summarize the paper we want to
 discuss for the day. You don't have to cover everything in the paper. The
 presentation is to set the stage and spark the interesting discussion we will
@@ -19,7 +21,8 @@ questions/discussion points you want to raise.
 A big part of this course will be on reading and reviewing the literature on
 the topic in hand. We will discuss one paper per class (that's two papers per
 week). In preparation for each class discussion, each student is expected to
-read the paper and submit a review before each class.
+read the paper and submit a review before each class. We might calibrate
+midway through the semester, depending how things go. 
 
 ### Assignments
 We will have two (or three) assignments. They will be mostly about helping you
@@ -36,5 +39,5 @@ this is subject to change based on class size.  Project proposal is due about a
 month after the class starts. Final project presentation and its report are due
 close to the end of the semester.
 
-### Schedule
-Coming soon!! 
+### Schedule (subject to small changes)
+[PDF](../CS6501sdn_schedule.pdf)
